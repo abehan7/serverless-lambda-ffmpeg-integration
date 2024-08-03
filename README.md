@@ -12,7 +12,7 @@ install yourself down below packages
 - s3-stream-upload
 - fluent-ffmpeg
 - @aws-sdk/client-s3
-- child-process-promise
+
 
 example code
 -> src/functions/hello/handler.ts
